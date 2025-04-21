@@ -17,7 +17,7 @@ app.use(bodyParser.json());
 const db = mysql.createConnection({
     host: 'localhost',
     user: 'root',
-    password: 'DYP@SQL1221', 
+    password: 'DYP@SQL1221',
     database: 'react_form'
 });
 
