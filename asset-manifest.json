@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Application-Form-MERN-MySQL/static/css/main.ec31fde8.css",
+    "main.js": "/Application-Form-MERN-MySQL/static/js/main.82b64a4c.js",
+    "static/js/239.8873da67.chunk.js": "/Application-Form-MERN-MySQL/static/js/239.8873da67.chunk.js",
+    "static/js/213.a07e487a.chunk.js": "/Application-Form-MERN-MySQL/static/js/213.a07e487a.chunk.js",
+    "static/js/732.8b1909c4.chunk.js": "/Application-Form-MERN-MySQL/static/js/732.8b1909c4.chunk.js",
+    "static/js/453.3b416a2d.chunk.js": "/Application-Form-MERN-MySQL/static/js/453.3b416a2d.chunk.js",
+    "static/media/images.png": "/Application-Form-MERN-MySQL/static/media/images.5d083aac7c1a0304c003.png",
+    "index.html": "/Application-Form-MERN-MySQL/index.html",
+    "main.ec31fde8.css.map": "/Application-Form-MERN-MySQL/static/css/main.ec31fde8.css.map",
+    "main.82b64a4c.js.map": "/Application-Form-MERN-MySQL/static/js/main.82b64a4c.js.map",
+    "239.8873da67.chunk.js.map": "/Application-Form-MERN-MySQL/static/js/239.8873da67.chunk.js.map",
+    "213.a07e487a.chunk.js.map": "/Application-Form-MERN-MySQL/static/js/213.a07e487a.chunk.js.map",
+    "732.8b1909c4.chunk.js.map": "/Application-Form-MERN-MySQL/static/js/732.8b1909c4.chunk.js.map",
+    "453.3b416a2d.chunk.js.map": "/Application-Form-MERN-MySQL/static/js/453.3b416a2d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec31fde8.css",
+    "static/js/main.82b64a4c.js"
+  ]
+}
